@@ -1,0 +1,42 @@
+body { 
+    padding-left: 45%;
+    margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 1560px;
+    background: linear-gradient(#66d4f0,#1d70db);
+}
+h1 {
+    margin-left: 70px;
+    color: #3a515c;
+}
+input {
+ height: 40px;
+ margin: 5px; 
+ padding-left:10px;  
+ border-radius: 5px;
+ font-size: 15px;
+ background: linear-gradient(#fff,#a8f6f0);
+ color: #1e487e;
+}
+button {
+    width: 90spx;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    background: linear-gradient(#f39d9d,#f87a7a);
+    border: none;
+    border-radius: 10px;
+    color: #1e487e;
+}
+.addUser {
+    margin-top: 20px;
+    margin-left: 140px;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    background: linear-gradient(#96f06c,#55b2dd);
+    border: none;
+    border-radius: 10px;
+    color: #1e487e;
+}
